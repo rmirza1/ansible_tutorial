@@ -1,7 +1,12 @@
 #192.168.0.49
 #192.168.0.48
 #192.168.0.54
+
+[redhat]
 redhat2
 redhat3
 redhat4
+
+[ubuntu]
+ubuntu1
 
